@@ -1,0 +1,28 @@
+## Glossary
+
+- **Agent** — an AI system given the ability to take actions (calling tools, accessing data, sending communications) rather than only producing text.
+- **Attack surface** — the total set of points where an attacker could attempt to interact with or compromise a system.
+- **CIA triad** — confidentiality, integrity, and availability; the three classic properties security aims to protect.
+- **Context window** — the total text a model can consider at once, including prompt, history, and retrieved content.
+- **Data lineage** — the record of every transformation a piece of data underwent before reaching its current state.
+- **Data provenance** — the record of where a piece of data originated.
+- **Embedding** — a numerical vector representation of content capturing semantic meaning.
+- **Excessive agency** — when an agent holds more functionality, permissions, or autonomy than its task requires.
+- **Fine-tuning** — a secondary, smaller training pass to specialize a pretrained model.
+- **Hallucination** — confident model output that is factually incorrect or fabricated.
+- **Inference** — running a trained model on new input to produce an output.
+- **Jailbreaking** — bypassing a model's safety training to produce disallowed content.
+- **MITRE ATLAS** — a framework cataloging adversary tactics and techniques against AI systems, modeled on ATT&CK.
+- **Model** — the trained artifact that maps inputs to outputs.
+- **NIST AI RMF** — a U.S. voluntary framework for managing AI risk, organized into Govern, Map, Measure, Manage.
+- **OWASP Top 10 for LLM Applications** — the standard taxonomy of the ten most critical risk categories specific to LLM systems.
+- **Prompt injection** — manipulating model input so it executes an unintended instruction rather than processing content as intended.
+- **Provenance tagging** — attaching source and trust-level metadata to retrieved content passed into a model.
+- **RAG (Retrieval-Augmented Generation)** — an architecture that retrieves relevant external content at query time and inserts it into the model's context.
+- **Red teaming** — adversarial testing of a system to find exploitable weaknesses before real attackers do.
+- **System prompt** — the hidden instructions configuring a model's behavior before user input is processed.
+- **Threat model** — a structured analysis of who might attack a system, how, and what they could achieve.
+- **Token** — the basic unit of text an LLM processes.
+- **Training** — the process of adjusting a model's weights using a dataset.
+- **Vector database** — a database optimized for storing and querying embeddings by similarity.
+- **Weights / parameters** — the learned numerical values inside a trained model.
